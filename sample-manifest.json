@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5868060a-20f7-48d2-bd62-5feeb49cf62d",
+  "export_job_id": "868fad5b-3abc-420a-b8ae-5e24734993a2",
   "id_short": 150108,
-  "published_at": "2026-04-19T07:19:38Z",
+  "published_at": "2026-04-22T19:17:53Z",
   "repo_name": "top-50-restaurant-category-dominators-in-new-york-us-sample-150108",
   "sample_asset_name": "beamstation_150108_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/150108/beamstation_150108_restaurants-us-ny_SAMPLE_DIST.csv",
-  "sample_records": 4,
-  "sample_sha256": "e9e451402909bb0efbbbd66d929b204d1826b98ffe83fe71c1ddfbbc226d1316",
-  "sample_size_bytes": 33882,
-  "total_records": 48
+  "sample_records": 9,
+  "sample_sha256": "bfab5e648d8568e8ea0845285cd5d57073dfd422772a38b9af2b8a017d2f1460",
+  "sample_size_bytes": 54615,
+  "total_records": 92
 }
